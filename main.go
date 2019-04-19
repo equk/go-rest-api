@@ -10,6 +10,7 @@ import (
 	"github.com/go-chi/render"
 )
 
+// Article structure
 type Article struct {
 	Title string `json:"title"`
 	Body  string `json:"body"`
