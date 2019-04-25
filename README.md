@@ -19,3 +19,8 @@ golang rest api server using `net/http` & `chi`
     Fri, 31 Aug 2018 12:08:00 +0100 basic server using net/http and chi for routing
     Fri, 31 Aug 2018 12:07:26 +0100 first commit - added README.md
 
+# contact
+
+Website: https://equk.co.uk
+
+Twitter: [@equilibriumuk](https://twitter.com/equilibriumuk)
